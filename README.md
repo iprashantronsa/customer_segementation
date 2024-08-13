@@ -59,19 +59,19 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Examine the characteristics of each cluster and visualize the segmentation using scatter plots
 
 ### Results
-The project identifies five distinct customer segments based on their age, income, spending score, and gender
-The clusters provide valuable insights into customer behavior, helping to inform targeted marketing and product development strategies
+- The project identifies five distinct customer segments based on their age, income, spending score, and gender
+- The clusters provide valuable insights into customer behavior, helping to inform targeted marketing and product development strategies
 
 ### Recommendations
 ##### Targeted Marketing:
-High Income, Low Spending (Cluster 4): Develop strategies to increase spending through promotions or loyalty programs
-Young, High Spending (Clusters 0 and 1): Maintain engagement with tailored services or products
+- High Income, Low Spending (Cluster 4): Develop strategies to increase spending through promotions or loyalty programs
+- Young, High Spending (Clusters 0 and 1): Maintain engagement with tailored services or products
 
 ##### Product Development:
-Create products or services that cater specifically to the needs of each segment, particularly those with unique spending behaviors
+- Create products or services that cater specifically to the needs of each segment, particularly those with unique spending behaviors
 
 ##### Customer Retention:
-Explore opportunities to boost spending among clusters with lower spending scores through personalized offers or enhanced customer experiences
+- Explore opportunities to boost spending among clusters with lower spending scores through personalized offers or enhanced customer experiences
 
 ### Contributing
 If you'd like to contribute to this project, please fork the repository and submit a pull request
